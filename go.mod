@@ -19,8 +19,8 @@ require (
 	github.com/lib/pq v1.10.2
 	github.com/mattn/goveralls v0.0.9
 	github.com/nats-io/nats-streaming-server v0.21.2 // indirect
-	github.com/nats-io/nats.go v1.11.0
-	github.com/nats-io/stan.go v0.9.0
+	github.com/nats-io/nats.go v1.13.0
+	github.com/nats-io/stan.go v0.10.2
 	github.com/oklog/ulid v1.3.1
 	github.com/parnurzeal/gorequest v0.2.16
 	github.com/powerman/appcfg v0.6.0
